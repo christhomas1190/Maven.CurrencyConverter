@@ -44,6 +44,7 @@ public class YenCurrencyConverterTest {
 
     @Test
     public void testAustralianConversion() {
+
         testConversion(CurrencyType.AUSTRALIAN_DOLLAR, .1165400552486188);
     }
 
